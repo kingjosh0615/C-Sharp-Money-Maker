@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\C# Stuff\\CSharpMoneyMaker\\CSharpMoneyMaker\\CSharpMoneyMaker.csproj",
+      "projectUniqueName": "N:\\C# Stuff\\C-Sharp-Money-Maker\\CSharpMoneyMaker\\CSharpMoneyMaker\\CSharpMoneyMaker.csproj",
       "projectName": "CSharpMoneyMaker",
-      "projectPath": "N:\\C# Stuff\\CSharpMoneyMaker\\CSharpMoneyMaker\\CSharpMoneyMaker.csproj",
+      "projectPath": "N:\\C# Stuff\\C-Sharp-Money-Maker\\CSharpMoneyMaker\\CSharpMoneyMaker\\CSharpMoneyMaker.csproj",
       "packagesPath": "C:\\Users\\WILES_JOSHUA\\.nuget\\packages\\",
-      "outputPath": "N:\\C# Stuff\\CSharpMoneyMaker\\CSharpMoneyMaker\\obj\\",
+      "outputPath": "N:\\C# Stuff\\C-Sharp-Money-Maker\\CSharpMoneyMaker\\CSharpMoneyMaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
