@@ -22,7 +22,7 @@ namespace CSharpMoneyMaker
             double silverCoins = Math.Floor(coinRemaining / silver);
             coinRemaining = coinRemaining % silver;
 
-            // print result
+            // print resultc
             Console.WriteLine($"Gold Coins: {goldCoins}");
             Console.WriteLine($"Silver Coins: {silverCoins}");
             Console.WriteLine($"Bronze Coins: {coinRemaining}");
